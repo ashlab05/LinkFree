@@ -1,0 +1,28 @@
+{
+  "name": "Mohammed Ashlab",
+  "type": "personal",
+  "bio": "Love to learn new thins everyday!!"
+  "avatar": "https://github.com/ashlab05.png"
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Ashlab6",
+      "icon": "FaTwitter"
+    },
+{
+      "name": "See my works in Github"
+      "url": "https://github.com/ashlab05",
+      "icon": "FaGit"
+    },
+{
+      "name": "Connect with me on linked in"
+      "url": "https://www.linkedin.com/in/mohammed-ashlab-b95335260/",
+      "icon": "FaLinkedin"
+    },
+{
+      "name": "Follow me on replit
+      "url": "https://replit.com/@ashlab05",
+      "icon": "SiReplit"
+    },
+  ]
+}
